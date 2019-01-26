@@ -1,0 +1,2 @@
+# FastText
+test the fasttext
